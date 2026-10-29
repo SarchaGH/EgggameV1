@@ -45,11 +45,11 @@ Spilleren kontrollerer en egg-figur ("EGG") som må navigere gjennom hindringer,
 
 - **Bevegelse og Fysikk:** Spilleren har fysikk basert bevegelse med Rigidbody2D for hopping og løping.
 
-<img src="./readmeimg/gameplay1.png" width="400" alt="Move-img">
+<img src="./Readmeimg/gameplay1.png" width="400" alt="Move-img">
 
 - **Helsesystem og Fallskade:** Spilleren har helsemålet. Hvis spilleren faller fra stor høyde med høy hastighet (safeFallSpeed), tas det skade basert på fallhastigheten.
 
-<img src="./readmeimg/gameplay2.png" width="400" alt="falldmg-img">
+<img src="./Readmeimg/gameplay2.png" width="400" alt="falldmg-img">
 
 - **Persistent Myntsystem:** Mynter og samleobjekter blir registrert i en sentral Game Manager. Når en mynt er samlet opp, 
 blir ID-en lagret slik at den ikke dukker opp igjen ved omstart, og den totale verdien bevares på tvers av nivåer (DontDestroyOnLoad).
@@ -144,7 +144,7 @@ void Update()
 
 - "Hvordan bruker jeg GameManager med DontDestroyOnLoad for å ta med mynter fra Level 1 til Level 2?"
 
-<img src="./readmeimg/AI!.png" width="400" alt="AIuse-img">
+<img src="./Readmeimg/AI!.png" width="400" alt="AIuse-img">
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

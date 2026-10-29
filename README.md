@@ -151,13 +151,17 @@ void Update()
 
 7. ####  **HVORDAN KJØRE SPILLET**
 
- - Åpne prosjektmappen i Unity Hub (versjon Unity 6 eller nyere).
+- Last ned prosjektfilene (ZIP) og pakke ut mappen på datamaskinen din.
 
- - Naviger til mappen Assets/Scenes/.
+- Åpne Unity Hub (versjon Unity 6 eller nyere).
 
- - Åpne scenen LV1 (Level 1).
+- Klikk på "Add" og velg den utpakkede prosjektmappen.
 
- - Trykk på Play-knappen øverst i Unity-editoren for å starte spillet.
+- Åpne prosjektet og naviger til mappen Assets/Scenes/ i Project-vinduet.
+
+- Dobbelklikk på scenen LV1 for å åpne den.
+
+- Trykk på Play-knappen øverst i Unity-editoren for å starte spillet.
 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
